@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Piff och Puff!</string>
+    <string name="action_settings">Settings</string>
+    <string name="piff_och_puff">Piff och Puff!</string>
+    <string name="button">Button</string>
+    <string name="email">Email</string>
+    <string name="emptyhint" />
+</resources>
